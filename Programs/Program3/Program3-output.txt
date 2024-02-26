@@ -1,0 +1,22 @@
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Three
+
+Enter a sentence, or 'No' to quit: 
+Today was a good day and also a beautiful day
+
+Duplicate words and their counts:
+a: 2
+day: 2
+
+Enter a sentence, or 'No' to quit: 
+I love programming I seriously like to learn new skills everyday and aqquire the skills needed to make an impact on the world around me
+
+Duplicate words and their counts:
+i: 2
+skills: 2
+the: 2
+to: 2
+
+Enter a sentence, or 'No' to quit: 
+no

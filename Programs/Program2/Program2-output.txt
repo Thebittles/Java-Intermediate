@@ -1,0 +1,37 @@
+Name:    Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Two
+
+Dimension: Two-Dimensional
+Shape: Circle 
+Radius = 5.75 
+Area = 103.87
+
+Dimension: Two-Dimensional
+Shape: Square 
+Length = 2.50 
+Area = 6.25
+
+Dimension: Two-Dimensional
+Shape: Triangle 
+Base = 7.95 
+Height = 10.33 
+Area = 41.06
+
+Dimension: Three-Dimensional
+Shape: Sphere 
+Radius = 5.75 
+Area = 415.48 
+Volume = 796.33
+
+Dimension: Three-Dimensional
+Shape: Cube 
+Edge Length = 2.50 
+Area = 37.50 
+Volume = 15.63
+
+Dimension: Three-Dimensional
+Shape: Tetrahedron 
+Edge Length = 2.50 
+Area = 10.83 
+Volume = 1.84
