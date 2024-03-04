@@ -1,0 +1,132 @@
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Four
+
+Enter a year 1903-2023 or 0 to exit: 1903
+Year: 1903
+Winning Team: Boston Americans
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1924
+Year: 1924
+Winning Team: Washington Senators
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1994
+Year: 1994
+Winning Team: No Data For Year
+Number of Wins: 0
+
+Enter a year 1903-2023 or 0 to exit: 2009
+Year: 2009
+Winning Team: New York Yankees
+Number of Wins: 27
+
+Enter a year 1903-2023 or 0 to exit: 2023
+Year: 2023
+Winning Team: Texas Rangers
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 0
+
+
+
+
+
+
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Four
+
+Enter a year 1903-2023 or 0 to exit: 1903
+Year: 1903
+Winning Team: Boston Americans
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1924
+Year: 1924
+Winning Team: Washington Senators
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1994
+Year: 1994
+Winning Team: No Data For Year
+Number of Wins: 0
+
+Enter a year 1903-2023 or 0 to exit: 2009
+Year: 2009
+Winning Team: New York Yankees
+Number of Wins: 27
+
+Enter a year 1903-2023 or 0 to exit: 2023
+Year: 2023
+Winning Team: Texas Rangers
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 0
+
+
+
+
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Four
+
+Enter a year 1903-2023 or 0 to exit: 1903
+Year: 1903
+Winning Team: Boston Americans
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1924
+Year: 1924
+Winning Team: Washington Senators
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1994
+Year: 1994
+Winning Team: No Data For Year
+Number of Wins: 0
+
+Enter a year 1903-2023 or 0 to exit: 2009
+Year: 2009
+Winning Team: New York Yankees
+Number of Wins: 27
+
+Enter a year 1903-2023 or 0 to exit: 2023
+Year: 2023
+Winning Team: Texas Rangers
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 0
+
+
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Four
+
+Enter a year 1903-2023 or 0 to exit: 1903
+Year: 1903
+Winning Team: Boston Americans
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1924
+Year: 1924
+Winning Team: Washington Senators
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 1994
+Year: 1994
+Winning Team: No Data For Year
+Number of Wins: 0
+
+Enter a year 1903-2023 or 0 to exit: 2009
+Year: 2009
+Winning Team: New York Yankees
+Number of Wins: 27
+
+Enter a year 1903-2023 or 0 to exit: 2023
+Year: 2023
+Winning Team: Texas Rangers
+Number of Wins: 1
+
+Enter a year 1903-2023 or 0 to exit: 0
