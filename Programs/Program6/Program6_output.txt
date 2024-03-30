@@ -1,0 +1,167 @@
+Name:   Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Six
+
+Fibonacci of 0 is: 0
+ took 0 milliseconds
+ took 1 recursive calls
+
+Fibonacci of 1 is: 1
+ took 0 milliseconds
+ took 1 recursive calls
+
+Fibonacci of 2 is: 1
+ took 0 milliseconds
+ took 3 recursive calls
+
+Fibonacci of 3 is: 2
+ took 0 milliseconds
+ took 5 recursive calls
+
+Fibonacci of 4 is: 3
+ took 0 milliseconds
+ took 9 recursive calls
+
+Fibonacci of 5 is: 5
+ took 0 milliseconds
+ took 15 recursive calls
+
+Fibonacci of 6 is: 8
+ took 0 milliseconds
+ took 25 recursive calls
+
+Fibonacci of 7 is: 13
+ took 0 milliseconds
+ took 41 recursive calls
+
+Fibonacci of 8 is: 21
+ took 0 milliseconds
+ took 67 recursive calls
+
+Fibonacci of 9 is: 34
+ took 0 milliseconds
+ took 109 recursive calls
+
+Fibonacci of 10 is: 55
+ took 1 milliseconds
+ took 177 recursive calls
+
+Fibonacci of 11 is: 89
+ took 0 milliseconds
+ took 287 recursive calls
+
+Fibonacci of 12 is: 144
+ took 0 milliseconds
+ took 465 recursive calls
+
+Fibonacci of 13 is: 233
+ took 0 milliseconds
+ took 753 recursive calls
+
+Fibonacci of 14 is: 377
+ took 0 milliseconds
+ took 1219 recursive calls
+
+Fibonacci of 15 is: 610
+ took 0 milliseconds
+ took 1973 recursive calls
+
+Fibonacci of 16 is: 987
+ took 0 milliseconds
+ took 3193 recursive calls
+
+Fibonacci of 17 is: 1597
+ took 0 milliseconds
+ took 5167 recursive calls
+
+Fibonacci of 18 is: 2584
+ took 0 milliseconds
+ took 8361 recursive calls
+
+Fibonacci of 19 is: 4181
+ took 1 milliseconds
+ took 13529 recursive calls
+
+Fibonacci of 20 is: 6765
+ took 2 milliseconds
+ took 21891 recursive calls
+
+Fibonacci of 21 is: 10946
+ took 2 milliseconds
+ took 35421 recursive calls
+
+Fibonacci of 22 is: 17711
+ took 3 milliseconds
+ took 57313 recursive calls
+
+Fibonacci of 23 is: 28657
+ took 4 milliseconds
+ took 92735 recursive calls
+
+Fibonacci of 24 is: 46368
+ took 7 milliseconds
+ took 150049 recursive calls
+
+Fibonacci of 25 is: 75025
+ took 8 milliseconds
+ took 242785 recursive calls
+
+Fibonacci of 26 is: 121393
+ took 15 milliseconds
+ took 392835 recursive calls
+
+Fibonacci of 27 is: 196418
+ took 20 milliseconds
+ took 635621 recursive calls
+
+Fibonacci of 28 is: 317811
+ took 27 milliseconds
+ took 1028457 recursive calls
+
+Fibonacci of 29 is: 514229
+ took 45 milliseconds
+ took 1664079 recursive calls
+
+Fibonacci of 30 is: 832040
+ took 52 milliseconds
+ took 2692537 recursive calls
+
+Fibonacci of 31 is: 1346269
+ took 72 milliseconds
+ took 4356617 recursive calls
+
+Fibonacci of 32 is: 2178309
+ took 125 milliseconds
+ took 7049155 recursive calls
+
+Fibonacci of 33 is: 3524578
+ took 182 milliseconds
+ took 11405773 recursive calls
+
+Fibonacci of 34 is: 5702887
+ took 290 milliseconds
+ took 18454929 recursive calls
+
+Fibonacci of 35 is: 9227465
+ took 503 milliseconds
+ took 29860703 recursive calls
+
+Fibonacci of 36 is: 14930352
+ took 744 milliseconds
+ took 48315633 recursive calls
+
+Fibonacci of 37 is: 24157817
+ took 1208 milliseconds
+ took 78176337 recursive calls
+
+Fibonacci of 38 is: 39088169
+ took 1940 milliseconds
+ took 126491971 recursive calls
+
+Fibonacci of 39 is: 63245986
+ took 3199 milliseconds
+ took 204668309 recursive calls
+
+Fibonacci of 40 is: 102334155
+ took 5150 milliseconds
+ took 331160281 recursive calls
