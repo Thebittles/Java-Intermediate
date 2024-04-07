@@ -1,0 +1,27 @@
+Name:    Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Seven
+
+Print Integer Array: 2 3 4 
+Number of elements printed: 3
+
+Print Entire Integer Array: 1 2 3 4 5 
+Number of elements printed: 5
+
+Print Double Array: 3.3 4.4 5.5 6.6 
+Number of elements printed: 4
+
+Print Entire Double Array: 1.1 2.2 3.3 4.4 5.5 6.6 7.7 
+Number of elements printed: 7
+
+Print Character Array: H E L 
+Number of elements printed: 3
+
+Print Entire Character Array: H E L L O 
+Number of elements printed: 5
+
+Print Double Array: Caught InvalidSubscriptException: Error: Invalid subscripts provided.
+
+Print Character Array: Caught InvalidSubscriptException: Error: Invalid subscripts provided.
+
+Print Integer Array: Caught InvalidSubscriptException: Error: Invalid subscripts provided.
