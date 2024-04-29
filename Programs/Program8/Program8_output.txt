@@ -1,0 +1,24 @@
+Name:    Brittany Sifford
+Course:  ITSE 2317 Java Programming (Intermediate)
+Project: Eight
+
+Enter an infix expression (or 0 to exit): 7 / 9
+Postfix expression: 7 9 / 
+
+Enter an infix expression (or 0 to exit): 6 + 2 * 5
+Postfix expression: 6 2 5 * + 
+
+Enter an infix expression (or 0 to exit): 6 + 2 * 5 – 8 / 4
+Postfix expression: 6 2 5 8 * 4 / + 
+
+Enter an infix expression (or 0 to exit): (6 + 2) * 5 – 8 / 4
+Postfix expression: 6 2 + 5 8 * 4 / 
+
+Enter an infix expression (or 0 to exit): (6 + 2) * 5 ^ 8 / 4
+Postfix expression: 6 2 + 5 8 ^ * 4 / 
+
+Enter an infix expression (or 0 to exit): 6 % 2 ^ 5 – 8 / 4 * 5
+Postfix expression: 6 2 5 8 ^ % 4 / 5 * 
+
+Enter an infix expression (or 0 to exit): 0
+Exiting the program...

@@ -8,7 +8,7 @@
 //
 //  Course:        ITSE 2317 Intermediate Java Programming
 //
-//  Due Date:      
+//  Due Date:      04/17/2024
 //
 //  Instructor:    Fred Kumi 
 //
@@ -178,4 +178,14 @@ public class List<E> {
 
       System.out.println();
    } 
+
+
+
+    // Added getting first node to implement peek 
+    public E getHead() throws NoSuchElementException {
+      if (isEmpty()) {
+          throw new NoSuchElementException(name + " is empty");
+      }
+      return firstNode.getData();
+  }
 } 

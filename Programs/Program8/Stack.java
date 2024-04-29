@@ -8,7 +8,7 @@
 //
 //  Course:        ITSE 2317 Intermediate Java Programming
 //
-//  Due Date:           
+//  Due Date:      4/17/2024 
 //
 //  Instructor:    Fred Kumi 
 //
@@ -46,6 +46,12 @@ public class Stack<T>
    public boolean isEmpty()
    { 
       return stackList.isEmpty(); 
+   }
+
+   //Peek - gets next item in stack
+   public T peek() throws NoSuchElementException
+   {
+      return stackList.getHead();
    }
 
    // output stack contents
