@@ -1,0 +1,37 @@
+Name: Brittany Sifford
+Course: ITSE 2317 Intermediate Java Programming
+Program: Nine
+
+Number of Cores:   8
+
+
+Single-Thread took longer than Multi-Thread
+
+Single-Threaded Time:  1,490 milliseconds
+Multi-Threaded Time:   1,415 milliseconds
+
+
+Multi-Threaded Sum:   157,515,054
+Single-Threaded Sum:  157,469,375
+
+
+
+
+
+
+
+Name: Brittany Sifford
+Course: ITSE 2317 Intermediate Java Programming
+Program: Nine
+
+Number of Cores:   8
+
+
+Single-Thread took longer than Multi-Thread
+
+Single-Threaded Time:  1,564 milliseconds
+Multi-Threaded Time:   1,446 milliseconds
+
+
+Multi-Threaded Sum:   157,511,306
+Single-Threaded Sum:  157,512,058
